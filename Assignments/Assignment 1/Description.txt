@@ -1,0 +1,20 @@
+Summary:
+
+HTML is the standard markup language which is widely used over world wide web to create web pages. Over the passage of time, various versions of HTML have been released. HTML5 is the latest version of HTML which is adapted by W3C in 2008.
+
+Your task
+Write a detailed report on HTML5 including:
+
+What are the new features/tags introduced in HTML5. Following must be included in the report: 
+New semantic elements like <header>, <footer>, <article>, and <section>.
+New attributes of form elements like number, date, time, calendar, and range.
+New graphic elements: <svg> and <canvas>.   
+New multimedia elements: <audio> and <video>.
+A comparison with HTML4: What is no more supported in HTML5
+It’s a group task
+Report must include at least 10 pages.
+Use the assignment template shared on LMS. A submission in any other format will result into deduction of marks.
+The title page of the report must include assignment number, names and IDs of group members, and Class with section (e.g. BESE-9A)
+Each group must submit only a single report.
+Important: Feel free to browse online literature to search related contents but your report must be your own work. A similarity index of above 15% will get a straight ‘0’.
+
